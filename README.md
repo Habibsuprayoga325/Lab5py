@@ -54,4 +54,4 @@ print(kontak.items())
 print(30*"═")
 
 #HASIL OUTPUT
-
+![gambar](lp.jpg)
