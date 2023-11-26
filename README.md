@@ -70,3 +70,7 @@ Buat flowchart dan penjelasan programnya pada README.md.
 Commit dan push repository ke github
 
 #FLOWCHART
+
+![gambar](PQ.png)
+
+#HASIL OUTPUT
